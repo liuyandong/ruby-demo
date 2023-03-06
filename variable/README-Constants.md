@@ -1,0 +1,1 @@
+Constants begin with an uppercase letter. A, String, FirstName, and STDIN are all valid constant names. The Ruby convention is to use either camel case (FirstName) or underscore-separated all-uppercase words (FIRST_NAME) in composing constant names from multiple words.
